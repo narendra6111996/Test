@@ -1,0 +1,94 @@
+[33mcommit 29a695be596d5da7087fbb8282f0de43a4791726[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNarendra[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/Narendra[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: ed732a3 8d68a01
+Author: narendra6111996 <31174914+narendra6111996@users.noreply.github.com>
+Date:   Tue Dec 26 23:46:31 2023 -0800
+
+    Merge pull request #2 from narendra6111996/Sindhu
+    
+    Sindhu
+
+[33mcommit 8d68a01c434eb74813f9e842edef7b0dd999e5e8[m
+Merge: eb1d028 ed732a3
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Wed Dec 27 12:59:42 2023 +0530
+
+    Merge branch 'master' into Sindhu
+    merged branch
+
+[33mcommit ed732a33aa379c6f8698ffbecf86f3881ace4df0[m
+Merge: 5ca4ab2 5880cfe
+Author: narendra6111996 <31174914+narendra6111996@users.noreply.github.com>
+Date:   Tue Dec 26 22:24:40 2023 -0800
+
+    Merge pull request #1 from narendra6111996/Narendra
+    
+    New Branch code
+
+[33mcommit eb1d028c5b9065c83a44d9740d8be640e9d9f75b[m
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Wed Dec 27 11:45:26 2023 +0530
+
+    sindhu test file added
+
+[33mcommit 5880cfe012827570bd2dedea4845e3feee7dd017[m
+Author: narendra6111996@gmail.com <narendra6111996@gmail.com>
+Date:   Tue Dec 26 22:15:17 2023 -0800
+
+    New branch created
+
+[33mcommit 5ca4ab2c5ba1ff9aafdd0c9152431c0ce4eeb0ec[m
+Merge: 2f77db7 c1ae59c
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Wed Dec 27 11:40:26 2023 +0530
+
+    Merge branch 'master' of https://github.com/narendra6111996/Test
+
+[33mcommit 2f77db74605734c72f5fef6c91e981636c9d42a6[m
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Wed Dec 27 11:40:13 2023 +0530
+
+    new statement added
+
+[33mcommit c1ae59c5296264e64cf0f7749f6e8bf7fba99706[m
+Merge: 981c99b e99d7d9
+Author: narendra6111996@gmail.com <narendra6111996@gmail.com>
+Date:   Tue Dec 26 22:07:52 2023 -0800
+
+    Merge branch 'master' of https://github.com/narendra6111996/Test
+
+[33mcommit 981c99b29c46647794174b072ceea56185852f91[m
+Author: narendra6111996@gmail.com <narendra6111996@gmail.com>
+Date:   Tue Dec 26 22:06:18 2023 -0800
+
+    Latest message
+
+[33mcommit e99d7d960833e1e98067611ae47179a849a98735[m
+Merge: 75b5d7a 0a9b154
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Wed Dec 27 11:31:51 2023 +0530
+
+    fixed
+
+[33mcommit 0a9b15464fb2e5c52a46ef3bee2e194a3f875c33[m
+Author: narendra6111996@gmail.com <narendra6111996@gmail.com>
+Date:   Tue Dec 26 21:57:21 2023 -0800
+
+    Changed demofile by Narendra
+
+[33mcommit 75b5d7acb59dfedde099e9a680216bff2d9365df[m
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Wed Dec 27 11:26:59 2023 +0530
+
+    demo
+
+[33mcommit 52aed56f678a7f1ab8b3ea4107da4f56b0bd7cf8[m
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Tue Dec 26 19:17:31 2023 +0530
+
+    second commit
+
+[33mcommit 3f3c6ef8029f1c6988ced0038db55792b913b3fa[m
+Author: sindhu <sindhujapuppala7@gmail.com>
+Date:   Tue Dec 26 18:46:33 2023 +0530
+
+    added first commit
